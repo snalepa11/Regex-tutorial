@@ -6,7 +6,7 @@ In the context of email validation, a regular expression can be used to check wh
 
 ## Summary
 
-This tutorial will be explaing components of the regular expression used to match emails. This regex is depicted below:
+This tutorial will be explaing components of a regular expression used to match emails. This regex is depicted below:
 
 `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
